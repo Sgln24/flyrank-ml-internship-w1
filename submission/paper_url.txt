@@ -1,2 +1,2 @@
 PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
-https://sgln24.github.io/flyrank-ml-internship-w1/capstone.html
+https://sgln24.github.io/flyrank-ml-internship-w1/index.html
